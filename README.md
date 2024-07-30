@@ -46,7 +46,7 @@ GameJams Projects - https://github.com/Bindo56/Game-Jams-Projects
 Game Engines: Unity.
 Programming Languages: C#.
 
-Tools & Technologies: Maya, Visual Studio , Adobe Photoshop , Adobe Illustator , Zbrush , Substance 3d Painter , Spine2D , Jira , Miro.
+Tools & Technologies: Unity , Unreal 5 , Maya , Visual Studio , Adobe Photoshop , Adobe Illustator , Zbrush , Substance 3d Painter , Spine2D , Jira , Miro.
 
 Other Skills: Problem-solving, creativity, teamwork, project management and time management.
 
