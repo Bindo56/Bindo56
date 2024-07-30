@@ -9,7 +9,7 @@ I'm Saurabh Kundalwal a passionate gamer and game developer with a passion for c
 Unity & C#: Enhancing my skills in creating interactive and engaging gameplay experiences.
 Programming: Writing efficient and scalable code in C#, to bring my game ideas to life.
 
-Design & Modelling: Creating 2D and 3D models using Maya & Adobe Photoshop.
+Design & Modelling: Creating 2D and 3D models using Adobe Photoshop & Maya.
 
 Game Testing : It is a software testing process for quality control of video games.
 
