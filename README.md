@@ -21,16 +21,25 @@ To Connect
 
 Email: Kundalwalsaurabh56@gmail.com
 LinkedIn: https://www.linkedin.com/in/saurabh-kundalwal-772183143/
+
 Instagram: https://www.instagram.com/kundalwal__/
+
 Whatsapp: 7391967061
+
 Projects
 
 Iscape Out  - https://github.com/Bindo56/Iscape-Out
+
 Valkyrie - https://github.com/Bindo56/Valkyrie
+
 Burgdorf - https://github.com/Bindo56/Burgdorf
+
 KitchenChaosMultipler - https://github.com/Bindo56/KitchenChaosMultiplayer
+
 shell-Shock - https://github.com/Bindo56/Shell-Shock
+
 War-Runner - https://github.com/Bindo56/War-Runner
+
 GameJams Projects - https://github.com/Bindo56/Game-Jams-Projects
 
 
