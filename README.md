@@ -32,6 +32,7 @@ Instagram: https://www.instagram.com/kundalwal__/
 Whatsapp: 7391967061
 
 Projects
+Tested Multiplayer(Lobby & code Joining) with Unity Gaming Services :- https://github.com/Bindo56/Multiplayer_Lobby_-_Player_Authentication/tree/main
 
 Iscape Out  - https://github.com/Bindo56/Iscape-Out
 
