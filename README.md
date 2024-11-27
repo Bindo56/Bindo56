@@ -50,12 +50,13 @@ shell-Shock - https://github.com/Bindo56/Shell-Shock
 War-Runner - https://github.com/Bindo56/War-Runner
 
 GameJams Projects - https://github.com/Bindo56/Game-Jams-Projects
+And Many More Games On https://bindo56.itch.io/
 
 
 Game Engines: Unity.
 Programming Languages: C#.
 
-Tools & Technologies: Unity , Unreal 5 , Maya , Visual Studio , Adobe Photoshop , Adobe Illustator , Zbrush , Substance 3d Painter , Spine2D , Jira , Miro.
+Tools & Technologies: Unity , Unreal 5 , Maya , Visual Studio , Adobe Photoshop , Adobe Illustator , Zbrush , Substance 3d Painter , Spine2D , Jira , Miro ,Comfortable Working with Thrid-Party APIs, Andriod Build.
 
 Other Skills: Problem-solving, creativity, teamwork, project management and time management.
 
