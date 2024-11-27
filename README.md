@@ -4,6 +4,9 @@ I'm Saurabh Kundalwal a passionate gamer and game developer with a passion for c
 
 🔭 Currently pursuing Bachelor of Design in Game Design at Artemisia College of Design ,Indore.
 
+Currently Working In Capital Rush Trading Game
+
+
 🌱 Currently learning:
 
 Unity & C#: Enhancing my skills in creating interactive and engaging gameplay experiences.
