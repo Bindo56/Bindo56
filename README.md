@@ -53,8 +53,8 @@ GameJams Projects - https://github.com/Bindo56/Game-Jams-Projects
 And Many More Games On https://bindo56.itch.io/
 
 
-Game Engines: Unity.
-Programming Languages: C#.
+Game Engines: Unity, Unreal Engine.
+Programming Languages: C#, Blueprint , C++.
 
 Tools & Technologies: Unity , Unreal 5 , Maya , Visual Studio , Adobe Photoshop , Adobe Illustator , Zbrush , Substance 3d Painter , Spine2D , Jira , Miro ,Comfortable Working with Thrid-Party APIs, Andriod Build.
 
