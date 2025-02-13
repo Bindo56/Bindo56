@@ -2,14 +2,12 @@ Hello, Fellow Gamers and Developers! 🎮
 
 I'm Saurabh Kundalwal a passionate gamer and game developer with a passion for creating immersive and innovative games. My journey in game development has been driven by curiosity, determination, and a love for both playing and making games 🎮👾.
 
-🔭 Currently pursuing Bachelor of Design in Game Design at Artemisia College of Design ,Indore.
+Currently pursuing Bachelor of Design in Game Design at Artemisia College of Design ,Indore.
 
 Currently Working In Capital Rush Trading Game
 
+Currently learning: Blueprint(Unreal Engine):- Enhancing my skills in creating interactive and engaging gameplay experiences.
 
-🌱 Currently learning:
-
-Unity & C#: Enhancing my skills in creating interactive and engaging gameplay experiences.
 Programming: Writing efficient and scalable code in C#, to bring my game ideas to life.
 
 Design & Modelling: Creating 2D and 3D models using Adobe Photoshop & Maya.
@@ -20,14 +18,14 @@ Continuous Learning: The tech and gaming worlds are always evolving, and so I'm 
 
 Problem Solving: I enjoy tackling complex problems and finding creative solutions, whether it’s optimizing game performance or designing intricate gameplay systems.
 
-👯 Looking to collaborate on:
+Looking to collaborate on:
 
 Game development projects, especially those involving innovative gameplay mechanics or storytelling.
 Open-source game development projects to contribute and learn from the community.
 Open to work on free projects on 2D and 3D games.
 To Connect
-
 Email: Kundalwalsaurabh56@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/saurabh-kundalwal-772183143/
 
 Instagram: https://www.instagram.com/kundalwal__/
@@ -58,7 +56,7 @@ And Many More Games On https://bindo56.itch.io/
 Game Engines: Unity, Unreal Engine.
 Programming Languages: C#, Blueprint , C++.
 
-Tools & Technologies: Unity , Unreal 5 , Maya , Visual Studio , Adobe Photoshop , Adobe Illustator , Zbrush , Substance 3d Painter , Spine2D , Jira , Miro ,Comfortable Working with Thrid-Party APIs, Andriod Build.
+Tools & Technologies: Unity , Unreal Engine , Maya , Visual Studio , Adobe Photoshop , Adobe Illustator , Zbrush , Substance 3d Painter , Spine2D , Jira , Miro ,Comfortable Working with Thrid-Party APIs, Andriod Build.
 
 Other Skills: Problem-solving, creativity, teamwork, project management and time management.
 
