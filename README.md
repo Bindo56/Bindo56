@@ -1,6 +1,6 @@
-Hello, Fellow Gamers and Developers! 🎮
 
-I'm Saurabh Kundalwal a passionate gamer and game developer with a passion for creating immersive and innovative games. My journey in game development has been driven by curiosity, determination, and a love for both playing and making games 🎮👾.
+
+I'm Saurabh Kundalwal a passionate gamer and game developer with a passion for creating immersive and innovative games. My journey in game development has been driven by curiosity, determination, and a love for both playing and making games.
 
 Currently pursuing Bachelor of Design in Game Design at Artemisia College of Design ,Indore.
 
