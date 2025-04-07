@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate **game developer** and designer currently pursuing a **Bachelor of Design in Game Design** at **Artemisia College of Design, Indore**. I specialize in **C#, C++, and Blueprint scripting**, with hands-on experience in **Unity** and **Unreal Engine**.
+I'm a passionate **game developer** and designer got my **Bachelor of Game Design Degree** from **Artemisia College of Design, Indore**. I specialize in **C#, C++, and Blueprint scripting**, with hands-on experience in **Unity** and **Unreal Engine**.
 
 My goal is to build immersive, engaging games and gameplay systems with a focus on storytelling, interaction, and technical polish.
 
