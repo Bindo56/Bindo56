@@ -3,9 +3,12 @@ Saurabh Kundalwal
 Game Developer | Unity & Unreal | Gameplay Programmer | Multiplayer & Backend | Design & Art Skills
 
 📍 Mumbai / Indore | 📧 kundalwalsaurabh56@gmail.com | 📱 +91 7391967061
+
 🔗 LinkedIn | GitHub | ArtStation | Itch.io
 
+
 About Me
+
 I’m a passionate game developer and designer with a strong foundation in C#, C++, and Blueprint scripting, currently pursuing a Bachelor of Design in Game Design at Artemisia College of Design, Indore.
 
 My journey started with a love for games and evolved into a career driven by creativity, technical curiosity, and a relentless desire to build immersive, engaging experiences.
@@ -13,7 +16,9 @@ My journey started with a love for games and evolved into a career driven by cre
 I have hands-on experience with both Unity and Unreal Engine, specializing in gameplay programming, multiplayer integration, UI implementation, and backend services.
 
 Experience
+
 Game Developer Intern
+
 🔗 www.capitalrush.io
 
 Projects
