@@ -22,29 +22,51 @@ Game Developer Intern
 🔗 www.capitalrush.io
 
 Projects
+
 Check out my projects here: GitHub Projects
+
 🔹 Iscape Out
+
 🔹 AR/VR Game Stack THe Ring(Unity)
+
 🔹 Unreal Third Year Project (ShroomBot)
+
 🔹 TopDownSnake Game (Unreal)
+
 🔹 Valkyrie
+
 🔹 Burgdorf
+
 🔹 KitchenChaosMultiplayer(UGS Lobby)
+
 🔹 Shell-Shock
+
 🔹 War-Runner
+
 🔹 Unreal Project
+
 🔹 Game Jam Projects
+
 🔹 Playable builds on Itch.io
 
+
 Skills
-Game Engines: Unity, Unreal Engine
-Languages: C#, C++, Blueprint
-Backend: Firebase, PlayFab, AWS
-Tools: Git, Autodesk Maya, Photoshop, Figma, Jira, Miro, Substance Painter, ZBrush, Illustrator, Spine2D
-Systems: Netcode for GameObjects, CCD, Google Play Console (ANR & Crashes)
-Other: Game Design, UI Implementation, Multiplayer Systems, Problem Solving, Project Management
+
+Game Engines: Unity, Unreal Engine.
+
+Languages: C#, C++, Blueprint.
+
+Backend: Firebase, PlayFab, AWS.
+
+Tools: Git, Autodesk Maya, Photoshop, Figma, Jira, Miro, Substance Painter, ZBrush, Illustrator, Spine2D.
+
+Systems: Netcode for GameObjects, CCD, Google Play Console (ANR & Crashes).
+
+Other: Game Design, UI Implementation, Multiplayer Systems, Problem Solving, Project Management.
+
 
 Learning Focus
+
 Graphics Programming in C++ (low-level rendering concepts)
 
 Deepening skills in Blueprints & Gameplay Mechanics
@@ -52,6 +74,7 @@ Deepening skills in Blueprints & Gameplay Mechanics
 Enhancing 2D/3D design skills using Maya and Adobe tools
 
 Let’s Collaborate!
+
 I’m open to:
 
 Indie & experimental game projects
