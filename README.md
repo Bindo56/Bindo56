@@ -33,8 +33,8 @@ My goal is to build immersive, engaging games and gameplay systems with a focus 
 
 Explore my portfolio on [GitHub](https://github.com/Bindo56):
 
-- 🎮 [VR Stack THe Ring](https://github.com/Bindo56/Stack-The-Ring---VR-Game)
-- 🎮 [AR Stack THe Ring](https://github.com/Bindo56/Stack-The-Ring-AR-Game)
+- 🎮 [VR Stack THe Ring - Unity](https://github.com/Bindo56/Stack-The-Ring---VR-Game)
+- 🎮 [AR Stack THe Ring - Unity](https://github.com/Bindo56/Stack-The-Ring-AR-Game)
 - 🎮 [Iscape Out](https://github.com/Bindo56/Iscape-Out)
 - ⚔️ [Valkyrie](https://github.com/Bindo56/Valkyrie)
 - 🧱 [Burgdorf](https://github.com/Bindo56/Burgdorf)
@@ -56,8 +56,8 @@ Explore my portfolio on [GitHub](https://github.com/Bindo56):
 **Programming:** C#, C++, Blueprint  
 **Backend:** Firebase, PlayFab, AWS  
 **Tools & Software:**  
-- Git, Jira, Miro, Visual Studio  
-- Autodesk Maya, Photoshop, Illustrator, Substance Painter, ZBrush, Spine2D, Figma  
+- Git, Jira, SourceTree, Visual Studio,Rider  
+- Autodesk Maya(Modeling & Rigging), ZBrush, Substance Painter, Photoshop, Illustrator, Figma
 - Google Play Console (ANRs, Crashes), CCD  
 **Other:**  
 - Gameplay Systems, Multiplayer, UI/UX, Game Design, Problem Solving, Time & Project Management
