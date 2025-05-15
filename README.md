@@ -16,7 +16,7 @@
 ## 🧠 About Me
 
 I'm a passionate **game developer** and designer got my **Bachelor of Game Design Degree** from **Artemisia College of Design, Indore**. I specialize in **C#, C++, and Blueprint scripting**, with hands-on experience in **Unity** and **Unreal Engine**.
-
+In addition to programming, I have experience in 3D modeling, rigging, and basic animation using tools like Autodesk Maya and ZBrush. You can check out my art and asset work on my [ArtStation](https://www.artstation.com/bindo56).
 My goal is to build immersive, engaging games and gameplay systems with a focus on storytelling, interaction, and technical polish.
 
 ---
@@ -31,7 +31,7 @@ My goal is to build immersive, engaging games and gameplay systems with a focus 
 
 ## 🚀 Projects
 
-Explore my portfolio on [GitHub](https://github.com/Bindo56):
+
 
 - 🎮 [Framing Simulation using SDL2 and C++](https://github.com/Bindo56/Alien_Farming_Game) 
 - 🎮 [AR VR Exprenices  - Unity](https://drive.google.com/drive/folders/1W091WM3mBFeqMuDKAQbpCSeETgAxi3BY)
