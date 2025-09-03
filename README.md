@@ -1,7 +1,6 @@
+# 🎮 Saurabh Kundalwal  
 
-# 🎮 Saurabh Kundalwal
-
-** Game Programmer | Unity & Unreal | | Multiplayer & Backend | Design & Art Skills**  
+**Gameplay Programmer | Unity & Unreal Engine | Multiplayer & Backend | Game Design & Art**  
 📍 Mumbai / Indore  
 📧 [kundalwalsaurabh56@gmail.com](mailto:kundalwalsaurabh56@gmail.com)  
 📱 +91 7391967061  
@@ -14,83 +13,88 @@
 ---
 
 ## 🧠 About Me
+I am a **motivated and detail-oriented gameplay programmer** with a strong foundation in **C++, C#, and Data Structures & Algorithms**, passionate about building **immersive player experiences**.  
 
-I'm a passionate **game developer** and designer got my **Bachelor of Game Design Degree** from **Artemisia College of Design, Indore**. I specialize in **C#, C++, and Blueprint scripting**, with hands-on experience in **Unity** and **Unreal Engine**.
+Skilled in **Unity** and **Unreal Engine**, I have expertise in **C#, Blueprints**, and developing **clean, scalable gameplay systems**. I’ve worked on projects involving **player mechanics, multiplayer systems, VR simulations**, and **system balancing**, while continuously growing my skills in **graphics programming** and low-level rendering in C++.
 
-In addition to programming, I have experience in 3D modeling, rigging, basic animation and 2D Art using tools like Autodesk Maya and ZBrush. You can check out my art and asset work on my [ArtStation](https://www.artstation.com/bindo56).
+I also have a background in **3D modeling, rigging, and 2D art**, using tools like Autodesk Maya and ZBrush, which allows me to collaborate closely with artists and designers.
 
-My goal is to build immersive, engaging games and gameplay systems with a focus on storytelling, interaction, and technical polish.
+My goal is to build **polished and technically strong games**, with a focus on **gameplay, storytelling, and player interaction**.
 
 ---
 
 ## 💼 Experience
 
+### **Unity Developer Intern — Wharf Street Studio**  
+📍 Mumbai | *Jul 2025 – Present*  
+- Built **foundational systems** such as player controllers, input handling, and **core game loops** from scratch.  
+- Focused on **clean, modular, and optimized code** to ensure a stable and extensible architecture.
+
+---
+
 ### **Game Developer Intern — Metronome Technologies**  
-🌍 Remote  
-🎮 [Capital Rush](https://www.capitalrush.io/)
+🌍 Remote | *Aug 2024 – Mar 2025*  
+🎮 [Capital Rush](https://www.capitalrush.io/)  
+- Developed and enhanced **gameplay mechanics** for *Capital Rush* and its mini-games.  
+- Designed and implemented a **comprehensive Earn & Refer system** with seamless tracking and reward distribution.  
+- Integrated **Firebase backend services**, handled **Google Play Console crash analysis**, and managed **CCD (Cloud Content Delivery)**.  
+- Delivered bug fixes, optimizations, and new features to improve user experience.
+
+---
+
+### **Contract Work — EdTech Creation Association (Cyrus 365)**  
+🌍 Hong Kong | Remote | *Jun 2025 – Aug 2025*  
+- **Designed and developed VR training simulation prototypes** for **confined space safety**, creating **end-to-end scenarios**.  
+- Built **scalable systems fully in C++** for immersive VR environments.  
+- Prototyped **interactive elements** to improve engagement and **learning outcomes**.  
+- Created **emergency training modules** to simulate high-pressure decision-making.  
+- Collaborated with a remote international team to meet **technical and training objectives**.
 
 ---
 
 ## 🚀 Projects
+Here are some of my notable projects.  
+Full list on [GitHub](https://github.com/Bindo56) and [Itch.io](https://bindo56.itch.io/).
 
-
-
-- 🎮 [Framing Simulation using SDL2 and C++](https://github.com/Bindo56/Alien_Farming_Game)
-- 🎮 [Drone Simulation VR - Unreal](https://github.com/Bindo56/Drone_Simulation) 
-- 🎮 [AR VR Exprenices  - Unity](https://drive.google.com/drive/folders/1W091WM3mBFeqMuDKAQbpCSeETgAxi3BY)
-- 🎮 [AR Interactive 3D Model Experience - Unreal](https://github.com/Bindo56/AR_3d_Industrial_Model_Interactive)
-- 🎮 [Space Runner 3D - Unity](https://github.com/Bindo56/SpaceRunner-3D)
-- 🎮 [Iscape Out](https://github.com/Bindo56/Iscape-Out)
-- ⚔️ [Valkyrie](https://github.com/Bindo56/Valkyrie)
-- 🧱 [Burgdorf](https://github.com/Bindo56/Burgdorf)
-- 🍽️ [KitchenChaosMultiplayer](https://github.com/Bindo56/KitchenChaosMultiplayer)
-- 🛠️ [Unreal Third Year Project](https://github.com/Bindo56/ThridYearProject)
-- 🛠️ [Unreal Top Down Snake Game]()
-- 💣 [Shell-Shock](https://github.com/Bindo56/Shell-Shock)
-- 🏃 [War-Runner](https://github.com/Bindo56/War-Runner)
-
+- 🎮 [Farming Simulation using SDL2 and C++](https://github.com/Bindo56/Alien_Farming_Game)  
+- 🎮 [Drone Simulation VR (Unreal)](https://github.com/Bindo56/Drone_Simulation)  
+- 🎮 [AR/VR Experiences (Unity)](https://drive.google.com/drive/folders/1W091WM3mBFeqMuDKAQbpCSeETgAxi3BY)  
+- 🎮 [Interactive 3D AR Model Viewer (Unreal)](https://github.com/Bindo56/AR_3d_Industrial_Model_Interactive)  
+- 🎮 [Space Runner 3D (Unity)](https://github.com/Bindo56/SpaceRunner-3D)  
+- 🎮 [IsCape Out](https://github.com/Bindo56/Iscape-Out)  
+- ⚔️ [Valkyrie](https://github.com/Bindo56/Valkyrie)  
+- 🧱 [Burgdorf](https://github.com/Bindo56/Burgdorf)  
 - 🕹️ [Game Jam Projects](https://github.com/Bindo56/Game-Jams-Projects)
-
-🕹️ Play my games on [Itch.io](https://bindo56.itch.io/)
 
 ---
 
 ## 🛠️ Skills
 
 **Game Engines:** Unity, Unreal Engine  
-**Programming:** C#, C++, Blueprint  
-**Backend:** Firebase, PlayFab, AWS  
-**Tools & Software:**  
-- Git, Jira, SourceTree, Visual Studio,Rider  
-- Autodesk Maya(Modeling & Rigging), ZBrush, Substance Painter, Photoshop, Illustrator, Figma
-- Google Play Console (ANRs, Crashes), CCD  
-**Other:**  
-- Gameplay Systems, Multiplayer, UI/UX, Game Design, Problem Solving, Time & Project Management
+**Programming:** C#, C++, Blueprint Scripting  
+**Backend & Multiplayer:** Firebase, PlayFab, AWS, CCD  
+**Tools:** Git, SourceTree, Jira, Visual Studio, Rider  
+**Art & Design Tools:** Autodesk Maya, ZBrush, Substance Painter, Photoshop, Illustrator, Figma  
+**Other Areas:** Gameplay Systems, Multiplayer Networking, UI/UX, System Balancing, Problem Solving
 
 ---
 
 ## 📚 Currently Learning
-
-- 🧪 **Graphics Programming** in C++ (Low-level rendering fundamentals)
-- 🎮 Advanced **Blueprint scripting** and mechanics in Unreal Engine
-- 🎨 Enhanced 2D/3D asset workflows using Maya & Adobe tools
-
----
-
-## 🤝 Let’s Collaborate
-
-I’m open to:
-- ✅ Indie game development
-- ✅ Game jams & hackathons
-- ✅ Multiplayer & gameplay scripting
-- ✅ Open-source or collaborative game dev
-
-💬 Want to chat or collaborate? Just [email me](mailto:kundalwalsaurabh56@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/saurabh-kundalwal-772183143/).
+- **Graphics Programming** in C++ (low-level rendering fundamentals)  
+- Advanced **Blueprint scripting** and gameplay mechanics in Unreal Engine  
+- Enhanced 2D/3D art pipeline for better collaboration with artists  
 
 ---
 
-> "Let’s create amazing games together that players remember and love!" — *Saurabh Kundalwal*
+## 🤝 Let's Collaborate
+I'm open to:
+- Indie game development  
+- Game jams & hackathons  
+- Multiplayer gameplay programming  
+- Open-source or collaborative game dev projects  
 
+💬 Reach out via [Email](mailto:kundalwalsaurabh56@gmail.com) or [LinkedIn](https://www.linkedin.com/in/saurabh-kundalwal-772183143/).
 
+---
 
-
+> *"Let's create immersive games that players remember and love."* — **Saurabh Kundalwal**
