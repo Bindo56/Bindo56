@@ -26,8 +26,9 @@ My goal is to build **polished and technically strong games**, with a focus on *
 ## 💼 Experience
 
 ### **Unity Developer Intern — Wharf Street Studio**  
-📍 Mumbai | *Jul 2025 – Present*  
-- Built **foundational systems** such as player controllers, input handling, and **core game loops** from scratch.  
+📍 Mumbai | *Jul 2025 – Oct 2025
+- Architected and implemented the core gameplay framework for a new Epiko 2D Adventure game , including player controls, camera systems, and input processing.
+   
 - Focused on **clean, modular, and optimized code** to ensure a stable and extensible architecture.
 
 ---
