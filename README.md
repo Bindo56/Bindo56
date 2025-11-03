@@ -1,6 +1,6 @@
 # 🎮 Saurabh Kundalwal  
 
-**Gameplay Programmer | Unity & Unreal Engine | Multiplayer & Backend | Game Design & Art**  
+**Gameplay Programmer / Technical Artist | Unity & Unreal Engine | Multiplayer & Backend | Game Design & Art**  
 📍 Mumbai / Indore  
 📧 [kundalwalsaurabh56@gmail.com](mailto:kundalwalsaurabh56@gmail.com)  
 📱 +91 7391967061  
@@ -28,6 +28,8 @@ My goal is to build **polished and technically strong games**, with a focus on *
 ### **Unity Developer Intern — Wharf Street Studio**  
 📍 Mumbai | *Jul 2025 – Oct 2025
 - Architected and implemented the core gameplay framework for a new Epiko 2D Adventure game , including player controls, camera systems, and input processing.
+
+- Configured and deployed a provided script to process API requests, manage WebSocket connections, and ensure reliable, real-time data delivery.
    
 - Focused on **clean, modular, and optimized code** to ensure a stable and extensible architecture.
 
@@ -57,6 +59,7 @@ My goal is to build **polished and technically strong games**, with a focus on *
 Here are some of my notable projects.  
 Full list on [GitHub](https://github.com/Bindo56) and [Itch.io](https://bindo56.itch.io/).
 
+- [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)  
 - 🎮 [Farming Simulation using SDL2 and C++](https://github.com/Bindo56/Alien_Farming_Game)  
 - 🎮 [Drone Simulation VR (Unreal)](https://github.com/Bindo56/Drone_Simulation)  
 - 🎮 [AR/VR Experiences (Unity)](https://drive.google.com/drive/folders/1W091WM3mBFeqMuDKAQbpCSeETgAxi3BY)  
