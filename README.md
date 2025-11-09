@@ -45,13 +45,20 @@ My goal is to build **polished and technically strong games**, with a focus on *
 
 ---
 
-### **Contract Work — EdTech Creation Association (Cyrus 365)**  
+### **Project Based 
+Software Developer - EdTech Creation Association (Cyrus 365)**  
 🌍 Hong Kong | Remote | *Jun 2025 – Aug 2025*  
 - **Designed and developed VR training simulation prototypes** for **confined space safety**, creating **end-to-end scenarios**.  
 - Built **scalable systems fully in C++** for immersive VR environments.  
 - Prototyped **interactive elements** to improve engagement and **learning outcomes**.  
 - Created **emergency training modules** to simulate high-pressure decision-making.  
 - Collaborated with a remote international team to meet **technical and training objectives**.
+
+
+ Unreal Developer - Fathom Marine Consultants Pvt Ltd, Powai
+* Worked on Cargo ship environment setup , level sequencing, Cinematic Render.
+* Contributed to the creation of scenes by handling lighting, animation rigs, and technical art workflows in Unreal Engine. 
+ 
 
 ---
 
