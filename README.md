@@ -64,7 +64,7 @@ Software Developer - EdTech Creation Association (Cyrus 365)**
 
 ## 🚀 Projects
 Here are some of my notable projects.  
-Full list on [GitHub](https://github.com/Bindo56) and [Itch.io](https://bindo56.itch.io/).
+[Itch.io](https://bindo56.itch.io/).
 
 - [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)  
 - 🎮 [Solar_System Sim using Unity DOTS (ECS) ~ Data-Oriented Design](https://github.com/Bindo56/DOTS_SolarSystem/tree/main)]
