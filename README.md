@@ -13,7 +13,7 @@
 ---
 
 ## 🧠 About Me
-I am a **motivated and detail-oriented gameplay programmer** with a strong foundation in **C++, C#, and Data Structures & Algorithms**, passionate about building **immersive player experiences**.  
+I am a **motivated and detail-oriented Gameplay programmer**  & Developer/Technical Artist with a strong foundation in **C++, C#, and Data Structures & Algorithms**, passionate about building **immersive player experiences**.  
 
 Skilled in **Unity** and **Unreal Engine**, I have expertise in **C#, Blueprints**, and developing **clean, scalable gameplay systems**. I’ve worked on projects involving **player mechanics, multiplayer systems, VR simulations**, and **system balancing**, while continuously growing my skills in **graphics programming** and low-level rendering in C++.
 
