@@ -68,6 +68,7 @@ Here are some of my notable projects.
 
 - [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)  
 - 🎮 [Solar_System Sim using Unity DOTS (ECS) ~ Data-Oriented Design](https://github.com/Bindo56/DOTS_SolarSystem/tree/main)]
+- 🎮 [Bitwise Operator Training Game](https://github.com/Bindo56/Bitwise_-_Bitboard_TrainingGame) 
 - 🎮 [Farming Simulation using SDL2 and C++](https://github.com/Bindo56/Alien_Farming_Game)  
 - 🎮 [Drone Simulation VR (Unreal)](https://github.com/Bindo56/Drone_Simulation)  
 - 🎮 [AR/VR Experiences (Unity)](https://drive.google.com/drive/folders/1W091WM3mBFeqMuDKAQbpCSeETgAxi3BY)  
