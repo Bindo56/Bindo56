@@ -66,7 +66,8 @@ Software Developer - EdTech Creation Association (Cyrus 365)**
 Here are some of my notable projects.  
 [Itch.io](https://bindo56.itch.io/).
 
-- [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)  
+- [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
+- 🎮 [Stretch & Squash Rig (Unity – IAnimationJob)](https://github.com/Bindo56/Stretch_And_Squash_Tool)]
 - 🎮 [Solar_System Sim using Unity DOTS (ECS) ~ Data-Oriented Design](https://github.com/Bindo56/DOTS_SolarSystem/tree/main)]
 - 🎮 [Bitwise Operator Training Game](https://github.com/Bindo56/Bitwise_-_Bitboard_TrainingGame) 
 - 🎮 [Farming Simulation using SDL2 and C++](https://github.com/Bindo56/Alien_Farming_Game)  
