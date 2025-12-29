@@ -1,6 +1,6 @@
 # 🎮 Saurabh Kundalwal  
 
-**Gameplay Programmer | Unity & Unreal Engine | Multiplayer & Backend | Technical Artist | Game Design & Art**  
+**Gameplay Programmer | Unity & Unreal Engine | Multiplayer & Backend | Technical Artist**  
 📍 Mumbai / Indore  
 📧 [kundalwalsaurabh56@gmail.com](mailto:kundalwalsaurabh56@gmail.com)  
 📱 +91 7391967061  
@@ -13,7 +13,7 @@
 ---
 
 ## 🧠 About Me
-I am a **motivated and detail-oriented Gameplay programmer**  & Developer/Technical Artist with a strong foundation in **C++, C#, and Data Structures & Algorithms**, passionate about building **immersive player experiences**.  
+I am a **motivated and detail-oriented Gameplay programmer**  & Developer with a strong foundation in **C++, C#, and Data Structures & Algorithms**, passionate about building **immersive player experiences**.  
 
 Skilled in **Unity** and **Unreal Engine**, I have expertise in **C#, Blueprints**, and developing **clean, scalable gameplay systems**. I’ve worked on projects involving **player mechanics, multiplayer systems, VR simulations**, and **system balancing**, while continuously growing my skills in **graphics programming** and low-level rendering in C++.
 
