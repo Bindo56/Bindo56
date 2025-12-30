@@ -67,13 +67,14 @@ Here are some of my notable projects.
 [Itch.io](https://bindo56.itch.io/).
 
 - [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
+- 🎮 [Enemy Robot AI – Finite State Machine (FSM)](https://github.com/Bindo56/Enemy-Robot-AI-Finite-State-Machine-FSM-)]
 - 🎮 [Stretch & Squash Rig (Unity – IAnimationJob)](https://github.com/Bindo56/Stretch_And_Squash_Tool)]
 - 🎮 [Solar_System Sim using Unity DOTS (ECS) ~ Data-Oriented Design](https://github.com/Bindo56/DOTS_SolarSystem/tree/main)]
-- 🎮 [Bitwise Operator Training Game](https://github.com/Bindo56/Bitwise_-_Bitboard_TrainingGame) 
 - 🎮 [Farming Simulation using SDL2 and C++](https://github.com/Bindo56/Alien_Farming_Game)  
 - 🎮 [Drone Simulation VR (Unreal)](https://github.com/Bindo56/Drone_Simulation)  
 - 🎮 [AR/VR Experiences (Unity)](https://drive.google.com/drive/folders/1W091WM3mBFeqMuDKAQbpCSeETgAxi3BY)  
-- 🎮 [Interactive 3D AR Model Viewer (Unreal)](https://github.com/Bindo56/AR_3d_Industrial_Model_Interactive)  
+- 🎮 [Interactive 3D AR Model Viewer (Unreal)](https://github.com/Bindo56/AR_3d_Industrial_Model_Interactive)
+- 🎮 [Bitwise Operator Training Game](https://github.com/Bindo56/Bitwise_-_Bitboard_TrainingGame) 
 - 🎮 [Space Runner 3D (Unity)](https://github.com/Bindo56/SpaceRunner-3D)  
 - 🎮 [IsCape Out](https://github.com/Bindo56/Iscape-Out)  
 - ⚔️ [Valkyrie](https://github.com/Bindo56/Valkyrie)  
