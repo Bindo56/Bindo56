@@ -9,6 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/Bindo56)  
 [![ArtStation](https://img.shields.io/badge/ArtStation-darkblue?style=for-the-badge&logo=artstation)](https://www.artstation.com/bindo56)  
 [![Itch.io](https://img.shields.io/badge/Itch.io-ff5c5c?style=for-the-badge&logo=itchdotio)](https://bindo56.itch.io/)
+[Personal Website](https://kundalwalsaurabh56.wixsite.com/my-site)
 
 ---
 
