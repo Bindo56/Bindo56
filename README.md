@@ -48,6 +48,7 @@ My goal is to build **polished and technically strong games**, with a focus on *
 
 ### **Project Based 
 Software Developer - EdTech Creation Association [Cyrus 365](https://www.cyrus365.com/)
+
 🌍 Hong Kong | Remote | *Jun 2025 – Aug 2025*  
 - **Designed and developed VR training simulation prototypes** for **confined space safety**, creating **end-to-end scenarios**.  
 - Built **scalable systems fully in C++** for immersive VR environments.  
@@ -57,6 +58,7 @@ Software Developer - EdTech Creation Association [Cyrus 365](https://www.cyrus36
 
 
 Unity Developer - [Leadr SDK](https://www.leadr.gg/)
+
 UK | Remote | 
 * Built a sample Unity game to demonstrate and validate Leadr SDK features in real gameplay scenarios.
 * Performed QA and functional testing of the SDK by verifying events, callbacks, and data flow during gameplay.
@@ -64,7 +66,8 @@ UK | Remote |
  
 
  Unreal Developer - Fathom Marine Consultants Pvt Ltd
- Powai - Onsite
+ 
+ | Powai - Onsite |
 * Worked on Cargo ship environment setup , level sequencing, Cinematic Render.
 * Contributed to the creation of scenes by handling lighting, animation rigs, and technical art workflows in Unreal Engine. 
  
