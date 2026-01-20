@@ -27,7 +27,7 @@ My goal is to build **polished and technically strong games**, with a focus on *
 
 ## 💼 Experience
 
-### **Unity Developer Intern — Wharf Street Studio**  
+### **Unity Developer Intern — [Wharf Street Studio](https://wharfstreetstudios.com/)
 📍 Mumbai | *Jul 2025 – Oct 2025
 - Architected and implemented the core gameplay framework for a new Epiko 2D Adventure game , including player controls, camera systems, and input processing.
 
@@ -37,9 +37,8 @@ My goal is to build **polished and technically strong games**, with a focus on *
 
 ---
 
-### **Game Developer Intern — Metronome Technologies**  
+### **Game Developer Intern — Metronome Technologies**[Capital Rush](https://play.google.com/store/apps/details?id=com.metronome.capital&hl=en_IN)  
 🌍 Remote | *Aug 2024 – Mar 2025*  
-🎮 [Capital Rush](https://www.capitalrush.io/)  
 - Developed and enhanced **gameplay mechanics** for *Capital Rush* and its mini-games.  
 - Designed and implemented a **comprehensive Earn & Refer system** with seamless tracking and reward distribution.  
 - Integrated **Firebase backend services**, handled **Google Play Console crash analysis**, and managed **CCD (Cloud Content Delivery)**.  
@@ -48,7 +47,7 @@ My goal is to build **polished and technically strong games**, with a focus on *
 ---
 
 ### **Project Based 
-Software Developer - EdTech Creation Association (Cyrus 365)**  
+Software Developer - EdTech Creation Association [Cyrus 365](https://www.cyrus365.com/)
 🌍 Hong Kong | Remote | *Jun 2025 – Aug 2025*  
 - **Designed and developed VR training simulation prototypes** for **confined space safety**, creating **end-to-end scenarios**.  
 - Built **scalable systems fully in C++** for immersive VR environments.  
@@ -57,7 +56,7 @@ Software Developer - EdTech Creation Association (Cyrus 365)**
 - Collaborated with a remote international team to meet **technical and training objectives**.
 
 
-Unity Developer - Leadr SDK (https://www.leadr.gg/)
+Unity Developer - [Leadr SDK](https://www.leadr.gg/)
 UK | Remote | 
 * Built a sample Unity game to demonstrate and validate Leadr SDK features in real gameplay scenarios.
 * Performed QA and functional testing of the SDK by verifying events, callbacks, and data flow during gameplay.
