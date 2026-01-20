@@ -57,14 +57,17 @@ Software Developer - EdTech Creation Association (Cyrus 365)**
 - Collaborated with a remote international team to meet **technical and training objectives**.
 
 
- Unreal Developer - Fathom Marine Consultants Pvt Ltd, Powai
-* Worked on Cargo ship environment setup , level sequencing, Cinematic Render.
-* Contributed to the creation of scenes by handling lighting, animation rigs, and technical art workflows in Unreal Engine. 
- 
 Unity Developer - Leadr SDK (https://www.leadr.gg/)
+UK | Remote | 
 * Built a sample Unity game to demonstrate and validate Leadr SDK features in real gameplay scenarios.
 * Performed QA and functional testing of the SDK by verifying events, callbacks, and data flow during gameplay.
 * Iterated on gameplay and integration based on testing results to ensure the SDK behaved correctly across builds.
+ 
+
+ Unreal Developer - Fathom Marine Consultants Pvt Ltd
+ Powai - Onsite
+* Worked on Cargo ship environment setup , level sequencing, Cinematic Render.
+* Contributed to the creation of scenes by handling lighting, animation rigs, and technical art workflows in Unreal Engine. 
  
     
 ---
