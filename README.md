@@ -37,7 +37,7 @@ My goal is to build **polished and technically strong games**, with a focus on *
 
 ---
 
-### **Game Developer Intern — Metronome Technologies**[Capital Rush](https://play.google.com/store/apps/details?id=com.metronome.capital&hl=en_IN)  
+### **Game Developer Intern — Metronome Technologies [Capital Rush](https://play.google.com/store/apps/details?id=com.metronome.capital&hl=en_IN)  
 🌍 Remote | *Aug 2024 – Mar 2025*  
 - Developed and enhanced **gameplay mechanics** for *Capital Rush* and its mini-games.  
 - Designed and implemented a **comprehensive Earn & Refer system** with seamless tracking and reward distribution.  
