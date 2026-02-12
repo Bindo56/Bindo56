@@ -79,8 +79,9 @@ Here are some of my notable projects.
 [Itch.io](https://bindo56.itch.io/).
 
 - [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
+- 🎮 .[FPS-independent melee tracing system in Unreal Engine (C++)](https://github.com/Bindo56/FPS-independent-melee-tracing-system-in-Unreal-Engine-C-)
 - 🎮 [Enemy Robot AI – Finite State Machine (FSM)](https://github.com/Bindo56/Enemy-Robot-AI-Finite-State-Machine-FSM-)
-- 🎮 [Stretch & Squash Rig (Unity – IAnimationJob)](https://github.com/Bindo56/Stretch_And_Squash_Tool)
+- 🎮 [Stretch & Squash Rig Tool (Unity – IAnimationJob)](https://github.com/Bindo56/Stretch_And_Squash_Tool)
 - 🎮 [Solar_System Sim using Unity DOTS (ECS) ~ Data-Oriented Design](https://github.com/Bindo56/DOTS_SolarSystem/tree/main)
 - 🎮 [Farming Simulation using SDL2 and C++](https://github.com/Bindo56/Alien_Farming_Game)  
 - 🎮 [Drone Simulation VR (Unreal)](https://github.com/Bindo56/Drone_Simulation)  
