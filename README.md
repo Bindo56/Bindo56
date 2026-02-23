@@ -1,6 +1,6 @@
 # 🎮 Saurabh Kundalwal  
 
-**Game Programmer | Unity & Unreal Engine | Multiplayer & Backend | Technical Artist**  
+**Gameplay/AI Programmer | Unity & Unreal Engine | Multiplayer & Backend | Technical Artist**  
 📍 Mumbai / Indore  
 📧 [kundalwalsaurabh56@gmail.com](mailto:kundalwalsaurabh56@gmail.com)  
 📱 +91 7391967061  
