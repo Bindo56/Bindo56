@@ -79,7 +79,7 @@ Here are some of my notable projects.
 [Itch.io](https://bindo56.itch.io/).
 
 - [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
-- 🎮 [Third Person Multiplayer Shooter Game Unrea Engine (C++)(Work In Progress)](https://github.com/Bindo56/Survival_Multiplayer/tree/Dev-Branch)
+- 🎮 [Third Person Multiplayer Shooter Game Unreal Engine (C++)(Work In Progress)](https://github.com/Bindo56/Survival_Multiplayer/tree/Dev-Branch)
 - 🎮 [FPS-independent melee tracing system in Unreal Engine (C++)](https://github.com/Bindo56/FPS-independent-melee-tracing-system-in-Unreal-Engine-C-)
 - 🎮 [Enemy Robot AI – Finite State Machine (FSM)](https://github.com/Bindo56/Enemy-Robot-AI-Finite-State-Machine-FSM-)
 - 🎮 [Stretch & Squash Rig Tool (Unity – IAnimationJob)](https://github.com/Bindo56/Stretch_And_Squash_Tool)
