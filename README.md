@@ -17,7 +17,7 @@
 ## 🧠 About Me
 I am a **motivated and detail-oriented Gameplay programmer**  & Developer with a strong foundation in **C++, C#, and Data Structures & Algorithms**, passionate about building **immersive player experiences**.  
 
-Skilled in **Unity** and **Unreal Engine**, I have expertise in **C#, Blueprints**, and developing **clean, scalable gameplay systems**. I’ve worked on projects involving **player mechanics, multiplayer systems, VR simulations**, and **system balancing**, while continuously growing my skills in **graphics programming** and low-level rendering in C++.
+Skilled in **Unity** and **Unreal Engine**, I have expertise in **C#, Blueprints**, C++**, and developing **clean, scalable gameplay systems**. I’ve worked on projects involving **player mechanics, multiplayer systems, VR simulations**, and **system balancing**, while continuously growing my skills in **graphics programming** and low-level rendering in C++.
 
 I also have a background in **3D modeling, rigging, and 2D art**, using tools like Autodesk Maya and ZBrush, which allows me to collaborate closely with artists and designers.
 
