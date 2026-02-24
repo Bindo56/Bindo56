@@ -118,22 +118,50 @@ Here are some of my notable projects.
 (Niagara Systems • Unity VFX • MotionBuilder • Maya • Rigging • Animation)
 
 ---
-
 ## 🛠️ Skills
 
-**Game Engines: Unity, Unreal Engine
+### 🎮 Game Engines
+- Unity  
+- Unreal Engine  
 
-**Programming: C#, C++, Blueprint
+### 💻 Programming
+- C#  
+- C++  
+- Blueprint  
 
-**Gameplay & Systems:Gameplay Systems, Multiplayer Systems, UI Programming, Gameplay Ability System (GAS), 
-                     
-                     OOPs , SOLID , MVP , Event-Driven Systems, State Machines, ScriptableObject-based Architecture
+### ⚙️ Gameplay & Systems
+- Gameplay Systems  
+- Multiplayer Systems  
+- UI Programming  
+- Gameplay Ability System (GAS)  
+- Object-Oriented Programming (OOP)  
+- SOLID Principles  
+- MVP Architecture  
+- Event-Driven Systems  
+- State Machines  
+- ScriptableObject-Based Architecture  
 
-**Backend & Multiplayer: Firebase, PlayFab, AWS, Unity Cloud Content Delivery (CCD)
+### 🌐 Backend & Multiplayer
+- Firebase  
+- PlayFab  
+- AWS  
+- Unity Cloud Content Delivery (CCD)  
 
-**Tools: Git, SourceTree, Jira, Visual Studio, Rider
+### 🧰 Tools
+- Git  
+- SourceTree  
+- Jira  
+- Visual Studio  
+- Rider  
 
-**Art & Technical Tools: Autodesk Maya, MotionBuilder, Houdini, Unreal Niagara, Unity VFX Graph, Photoshop, Figma
+### 🎨 Art & Technical Tools
+- Autodesk Maya  
+- MotionBuilder  
+- Houdini  
+- Unreal Niagara  
+- Unity VFX Graph  
+- Photoshop  
+- Figma  
 
 ---
 
