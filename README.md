@@ -80,19 +80,32 @@ UK | Remote | *Nov 2025 - Jan 2026
 Here are some of my notable projects.  
 [Itch.io](https://bindo56.itch.io/).
 
+## **Tech Art
 - [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
+
+## **3D Gameplay System
 - 🎮 [Third Person Multiplayer Shooter Game Unreal Engine (C++)(Work In Progress)](https://github.com/Bindo56/Survival_Multiplayer/tree/Dev-Branch)
 - 🎮 [Attack Combo & Weapon Trace System Using Anim Notifies Unreal Engine (Blueprint)](https://github.com/Bindo56/Combo-Attacks)
 - 🎮 [FPS-independent Weapon Tracing system in Unreal Engine (C++)](https://github.com/Bindo56/FPS-independent-melee-tracing-system-in-Unreal-Engine-C-)
 - 🎮 [Enemy Robot AI – Finite State Machine (FSM)](https://github.com/Bindo56/Enemy-Robot-AI-Finite-State-Machine-FSM-)
-- 🎮 [Farming Simulation using SDL2 and C++](https://github.com/Bindo56/Alien_Farming_Game)  
-- 🎮 [Stretch & Squash Rig Tool (Unity – IAnimationJob)](https://github.com/Bindo56/Stretch_And_Squash_Tool)
-- 🎮 [Solar_System Sim using Unity DOTS (ECS) ~ Data-Oriented Design](https://github.com/Bindo56/DOTS_SolarSystem/tree/main)
 - 🎮 [Space Runner 3D (Unity)](https://github.com/Bindo56/SpaceRunner-3D)
-- 🎮 [Drone Simulation VR (Unreal)](https://github.com/Bindo56/Drone_Simulation) ### **VR
-- 🎮 [AR/VR Experiences (Unity)](https://drive.google.com/drive/folders/1W091WM3mBFeqMuDKAQbpCSeETgAxi3BY) ### **VR/AR
-- 🎮 [Interactive 3D AR Model Viewer (Unreal)](https://github.com/Bindo56/AR_3d_Industrial_Model_Interactive) ### **AR
+
+## **Unity Tools
+- 🎮 [Stretch & Squash Rig Tool (Unity – IAnimationJob)](https://github.com/Bindo56/Stretch_And_Squash_Tool)
+
+## **Unity Dots
+- 🎮 [Solar_System Sim using Unity DOTS (ECS) ~ Data-Oriented Design](https://github.com/Bindo56/DOTS_SolarSystem/tree/main)
+
+## ** VR/AR 
+- 🎮 [Drone Simulation VR (Unreal)](https://github.com/Bindo56/Drone_Simulation)
+- 🎮 [AR/VR Experiences (Unity)](https://drive.google.com/drive/folders/1W091WM3mBFeqMuDKAQbpCSeETgAxi3BY)
+- 🎮 [Interactive 3D AR Model Viewer (Unreal)](https://github.com/Bindo56/AR_3d_Industrial_Model_Interactive)
+
+## **2D Game From Scratch
+- 🎮 [Farming Simulation using SDL2 and C++](https://github.com/Bindo56/Alien_Farming_Game)
 - 🎮 [Bitwise Operator Training Game Terminal C++](https://github.com/Bindo56/Bitwise_-_Bitboard_TrainingGame) 
+
+##** 2D Games Unity
 - 🎮 [Card Matching Game 2D Game (Unity)](https://github.com/Bindo56/Card_Matching_Game)   
 - 🎮 [IsCape Out 2D Game](https://github.com/Bindo56/Iscape-Out)  
 - ⚔️ [Valkyrie 2D Game](https://github.com/Bindo56/Valkyrie)  
