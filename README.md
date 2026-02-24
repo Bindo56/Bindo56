@@ -35,7 +35,7 @@ My goal is to build **polished and technically strong games**, with a focus on *
    
 - Focused on **clean, modular, and optimized code** to ensure a stable and extensible architecture.
 
----
+
 
 ### **Game Developer Intern — Metronome Technologies [Capital Rush](https://play.google.com/store/apps/details?id=com.metronome.capital&hl=en_IN)  
 🌍 Remote | *Aug 2024 – Mar 2025*  
@@ -47,7 +47,7 @@ My goal is to build **polished and technically strong games**, with a focus on *
 ---
 
 ### **Project Based 
-**Software Developer (Unreal Engine) - EdTech Creation Association [Cyrus 365](https://www.cyrus365.com/)
+### **Software Developer (Unreal Engine) - EdTech Creation Association [Cyrus 365](https://www.cyrus365.com/)
 
 🌍 Hong Kong | Remote | *Jun 2025 – Aug 2025*  
 - **Designed and developed VR training simulation prototypes** for **confined space safety**, creating **end-to-end scenarios**.  
@@ -56,18 +56,18 @@ My goal is to build **polished and technically strong games**, with a focus on *
 - Created **emergency training modules** to simulate high-pressure decision-making.  
 - Collaborated with a remote international team to meet **technical and training objectives**.
 
----
 
-**Unity Developer - [Leadr SDK](https://www.leadr.gg/)
+
+### **Unity Developer - [Leadr SDK](https://www.leadr.gg/)
 
 UK | Remote | 
 * Built a sample Unity game to demonstrate and validate Leadr SDK features in real gameplay scenarios.
 * Performed QA and functional testing of the SDK by verifying events, callbacks, and data flow during gameplay.
 * Iterated on gameplay and integration based on testing results to ensure the SDK behaved correctly across builds.
 
- ---
 
- **Unreal Developer - Fathom Marine Consultants Pvt Ltd
+
+ ### **Unreal Developer - Fathom Marine Consultants Pvt Ltd
  
  | Powai - Onsite |
 * Worked on Cargo ship environment setup , level sequencing, Cinematic Render.
