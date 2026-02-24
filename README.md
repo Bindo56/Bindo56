@@ -89,9 +89,9 @@ Here are some of my notable projects.
 - 🎮 [Stretch & Squash Rig Tool (Unity – IAnimationJob)](https://github.com/Bindo56/Stretch_And_Squash_Tool)
 - 🎮 [Solar_System Sim using Unity DOTS (ECS) ~ Data-Oriented Design](https://github.com/Bindo56/DOTS_SolarSystem/tree/main)
 - 🎮 [Space Runner 3D (Unity)](https://github.com/Bindo56/SpaceRunner-3D)
-- 🎮 [Drone Simulation VR (Unreal) ### **VR](https://github.com/Bindo56/Drone_Simulation)  
-- 🎮 [AR/VR Experiences (Unity)### **VR/AR](https://drive.google.com/drive/folders/1W091WM3mBFeqMuDKAQbpCSeETgAxi3BY)  
-- 🎮 [Interactive 3D AR Model Viewer (Unreal)### **AR](https://github.com/Bindo56/AR_3d_Industrial_Model_Interactive)
+- 🎮 [Drone Simulation VR (Unreal)](https://github.com/Bindo56/Drone_Simulation) ### **VR
+- 🎮 [AR/VR Experiences (Unity)](https://drive.google.com/drive/folders/1W091WM3mBFeqMuDKAQbpCSeETgAxi3BY) ### **VR/AR
+- 🎮 [Interactive 3D AR Model Viewer (Unreal)](https://github.com/Bindo56/AR_3d_Industrial_Model_Interactive) ### **AR
 - 🎮 [Bitwise Operator Training Game Terminal C++](https://github.com/Bindo56/Bitwise_-_Bitboard_TrainingGame) 
 - 🎮 [Card Matching Game 2D Game (Unity)](https://github.com/Bindo56/Card_Matching_Game)   
 - 🎮 [IsCape Out 2D Game](https://github.com/Bindo56/Iscape-Out)  
