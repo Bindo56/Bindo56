@@ -82,6 +82,7 @@ Here are some of my notable projects.
 
 ## **Tech Art
 - [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
+
 (Niagara Systems • Unity VFX • MotionBuilder • Maya • Rigging • Animation)
 
 
