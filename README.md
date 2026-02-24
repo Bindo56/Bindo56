@@ -60,14 +60,14 @@ My goal is to build **polished and technically strong games**, with a focus on *
 
 ### **Unity Developer - [Leadr SDK](https://www.leadr.gg/)
 
-UK | Remote | 
+UK | Remote | *Nov 2025 - Jan 2026 
 * Built a sample Unity game to demonstrate and validate Leadr SDK features in real gameplay scenarios.
 * Performed QA and functional testing of the SDK by verifying events, callbacks, and data flow during gameplay.
 * Iterated on gameplay and integration based on testing results to ensure the SDK behaved correctly across builds.
 
 
 
- ### **Unreal Developer - Fathom Marine Consultants Pvt Ltd
+ ### **Unreal Tech Artist - Fathom Marine Consultants Pvt Ltd
  
  | Powai - Onsite |
 * Worked on Cargo ship environment setup , level sequencing, Cinematic Render.
