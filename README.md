@@ -123,8 +123,7 @@ Here are some of my notable projects.
 
 **Game Engines: Unity, Unreal Engine
 **Programming: C#, C++, Blueprint
-**Gameplay & Systems: Gameplay Systems, Multiplayer Systems, UI Programming, Gameplay Ability System (GAS),
-                      OOPs , SOLID , MVP , Event-Driven Systems, State Machines, ScriptableObject-based Architecture
+**Gameplay & Systems: Gameplay Systems, Multiplayer Systems, UI Programming, Gameplay Ability System (GAS), OOPs , SOLID , MVP , Event-Driven Systems, State Machines, ScriptableObject-based Architecture
 **Backend & Multiplayer: Firebase, PlayFab, AWS, Unity Cloud Content Delivery (CCD)
 **Tools: Git, SourceTree, Jira, Visual Studio, Rider
 **Art & Technical Tools: Autodesk Maya, MotionBuilder, Houdini, Unreal Niagara, Unity VFX Graph, Photoshop, Figma
