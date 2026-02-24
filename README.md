@@ -96,7 +96,7 @@ Here are some of my notable projects.
 ## **Unity Dots
 - 🎮 [Solar_System Sim using Unity DOTS (ECS) ~ Data-Oriented Design](https://github.com/Bindo56/DOTS_SolarSystem/tree/main)
 
-## ** VR/AR 
+## ** VR/AR Unity/Unreal Engine
 - 🎮 [Drone Simulation VR (Unreal)](https://github.com/Bindo56/Drone_Simulation)
 - 🎮 [AR/VR Experiences (Unity)](https://drive.google.com/drive/folders/1W091WM3mBFeqMuDKAQbpCSeETgAxi3BY)
 - 🎮 [Interactive 3D AR Model Viewer (Unreal)](https://github.com/Bindo56/AR_3d_Industrial_Model_Interactive)
@@ -105,7 +105,7 @@ Here are some of my notable projects.
 - 🎮 [Farming Simulation using SDL2 and C++](https://github.com/Bindo56/Alien_Farming_Game)
 - 🎮 [Bitwise Operator Training Game Terminal C++](https://github.com/Bindo56/Bitwise_-_Bitboard_TrainingGame) 
 
-##** 2D Games Unity
+## ** 2D Games Unity Engine
 - 🎮 [Card Matching Game 2D Game (Unity)](https://github.com/Bindo56/Card_Matching_Game)   
 - 🎮 [IsCape Out 2D Game](https://github.com/Bindo56/Iscape-Out)  
 - ⚔️ [Valkyrie 2D Game](https://github.com/Bindo56/Valkyrie)  
