@@ -81,7 +81,9 @@ Here are some of my notable projects.
 [Itch.io](https://bindo56.itch.io/).
 
 ## **Tech Art
-- [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
+- [Technical Artish Work
+(Niagara Systems • Unity VFX • MotionBuilder • Maya • Rigging • Animation)]
+(https://github.com/Bindo56/Technical-Artist-Work/tree/main)
 
 ## **3D Gameplay System
 - 🎮 [Third Person Multiplayer Shooter Game Unreal Engine (C++)(Work In Progress)](https://github.com/Bindo56/Survival_Multiplayer/tree/Dev-Branch)
