@@ -121,13 +121,10 @@ Here are some of my notable projects.
 ## 🛠️ Skills
 
 ### 🎮 Game Engines
-- Unity  
-- Unreal Engine  
+- Unity , Unreal Engine , Roblox  
 
 ### 💻 Programming
-- C#  
-- C++  
-- Blueprint  
+- C# , C++ , Blueprint , Lua  
 
 ### ⚙️ Gameplay & Systems
 - Gameplay Systems  
@@ -136,32 +133,19 @@ Here are some of my notable projects.
 - Gameplay Ability System (GAS)  
 - Object-Oriented Programming (OOP)  
 - SOLID Principles  
-- MVP Architecture  
+- MVC Architecture  
 - Event-Driven Systems  
 - State Machines  
 - ScriptableObject-Based Architecture  
 
 ### 🌐 Backend & Multiplayer
-- Firebase  
-- PlayFab  
-- AWS  
-- Unity Cloud Content Delivery (CCD)  
+- Firebase , PlayFab , AWS , Unity Cloud Content Delivery (CCD)  
 
 ### 🧰 Tools
-- Git  
-- SourceTree  
-- Jira  
-- Visual Studio  
-- Rider  
+- Git , SourceTree , Jira , Visual Studio , Rider  
 
 ### 🎨 Art & Technical Tools
-- Autodesk Maya  
-- MotionBuilder  
-- Houdini  
-- Unreal Niagara  
-- Unity VFX Graph  
-- Photoshop  
-- Figma  
+- Autodesk Maya , MotionBuilder , Houdini , Unreal Niagara , Unity VFX Graph , Photoshop , Figma  
 
 ---
 
