@@ -80,11 +80,6 @@ UK | Remote | *Nov 2025 - Jan 2026
 Here are some of my notable projects.  
 [Itch.io](https://bindo56.itch.io/).
 
-## **Tech Art
-- [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
-
-(Niagara Systems • Unity VFX • MotionBuilder • Maya • Rigging • Animation)
-
 
 ## **3D Gameplay System
 - 🎮 [Third Person Multiplayer Shooter Game Unreal Engine (C++)(Work In Progress)](https://github.com/Bindo56/Survival_Multiplayer/tree/Dev-Branch)
@@ -117,13 +112,20 @@ Here are some of my notable projects.
 
 ---
 
+## **Tech Art
+- [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
+
+(Niagara Systems • Unity VFX • MotionBuilder • Maya • Rigging • Animation)
+
+---
+
 ## 🛠️ Skills
 
 **Game Engines:** Unity, Unreal Engine  
 **Programming:** C#, C++, Blueprint Scripting  
 **Backend & Multiplayer:** Firebase, PlayFab, AWS, CCD  
 **Tools:** Git, SourceTree, Jira, Visual Studio, Rider  
-**Art & Design Tools:** Autodesk Maya, ZBrush, Substance Painter, Photoshop, Illustrator, Figma  
+**Art & Design Tools:** Autodesk Maya, Motion Builder , Houdini, Niagara System Unreal , Unty VFX ,Photoshop, Figma 
 **Other Areas:** Gameplay Systems, Multiplayer Networking, UI/UX, System Balancing, Problem Solving
 
 ---
