@@ -121,12 +121,13 @@ Here are some of my notable projects.
 
 ## 🛠️ Skills
 
-**Game Engines:** Unity, Unreal Engine  
-**Programming:** C#, C++, Blueprint Scripting  
-**Backend & Multiplayer:** Firebase, PlayFab, AWS, CCD  
-**Tools:** Git, SourceTree, Jira, Visual Studio, Rider  
-**Art & Design Tools:** Autodesk Maya, Motion Builder , Houdini, Niagara System Unreal , Unty VFX ,Photoshop, Figma 
-**Other Areas:** Gameplay Systems, Multiplayer Networking, UI/UX, System Balancing, Problem Solving
+**Game Engines: Unity, Unreal Engine
+**Programming: C#, C++, Blueprint
+**Gameplay & Systems: Gameplay Systems, Multiplayer Systems, UI Programming, Gameplay Ability System (GAS),
+                      OOPs , SOLID , MVP , Event-Driven Systems, State Machines, ScriptableObject-based Architecture
+**Backend & Multiplayer: Firebase, PlayFab, AWS, Unity Cloud Content Delivery (CCD)
+**Tools: Git, SourceTree, Jira, Visual Studio, Rider
+**Art & Technical Tools: Autodesk Maya, MotionBuilder, Houdini, Unreal Niagara, Unity VFX Graph, Photoshop, Figma
 
 ---
 
