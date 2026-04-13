@@ -1,6 +1,6 @@
 # 🎮 Saurabh Kundalwal  
 
-**Gameplay Programmer & Developer | Unity & Unreal Engine | Multiplayer & Backend | Technical Artist**  
+**Gameplay Programmer & Technical Artist | Unity & Unreal Engine | Multiplayer & Backend | Technical Artist**  
 📍 Mumbai  
 📧 [kundalwalsaurabh56@gmail.com](mailto:kundalwalsaurabh56@gmail.com)  
 📱 +91 7391967061  
@@ -71,7 +71,15 @@ UK | Remote | *Nov 2025 - Jan 2026
  | Powai - Onsite |
 * Worked on Cargo ship environment setup , level sequencing, Cinematic Render.
 * Contributed to the creation of scenes by handling lighting, animation rigs, and technical art workflows in Unreal Engine. 
- 
+
+ ---
+
+## **Tech Art
+- [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
+
+(Niagara Systems • Unity VFX • MotionBuilder • Maya • Rigging • Animation)
+
+---
     
 ---
 
@@ -109,14 +117,7 @@ Here are some of my notable projects.
 - 🧱 [Burgdorf 2D Game](https://github.com/Bindo56/Burgdorf)  
 - 🕹️ [Game Jam Projects](https://github.com/Bindo56/Game-Jams-Projects)
 
----
 
-## **Tech Art
-- [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
-
-(Niagara Systems • Unity VFX • MotionBuilder • Maya • Rigging • Animation)
-
----
 ## 🛠️ Skills
 
 ### 🎮 Game Engines
