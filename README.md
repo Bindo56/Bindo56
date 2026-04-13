@@ -74,12 +74,12 @@ UK | Remote | *Nov 2025 - Jan 2026
 
  ---
 
-## **Tech Art
+## **Technical Artist 
 - [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
 
 (Niagara Systems • Unity VFX • MotionBuilder • Maya • Rigging • Animation)
 
----
+
     
 ---
 
