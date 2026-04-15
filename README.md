@@ -15,9 +15,9 @@
 ---
 
 ## 🧠 About Me
-Have Experience for Gameplay programming made some games and mechanics.  
+Have Experience for Game programming and Techincal Artist made some games.  
 
-Skilled in **Unity** and **Unreal Engine**, I work in **C#, Blueprints**, C++ , and developing **clean, scalable gameplay systems**. I’ve worked on projects involving **player mechanics, multiplayer systems, VR simulations**, and **system Architecture**, and low-level rendering in C++.
+Skilled in **Unity** and **Unreal Engine**, I work in **C#, Blueprints**, C++ , and developing **clean, scalable gameplay systems**. I’ve worked on projects involving **player mechanics, multiplayer systems, VR simulations**, and **system Architecture**, and low-level rendering in C++ and also i work on VFX , Motion Builder , Animation Intergration , Anim Notify and other Techical Artist.
 
 Have a knowledge in **3D modeling in MAYA , and 2D art**,  Autodesk Maya for Rigging and Motion Builder for Animations Combining & skeleton Animation switch work.
 
