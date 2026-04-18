@@ -6,7 +6,7 @@
 📱 +91 7391967061  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurabh-kundalwal-772183143/)  
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/Bindo56)  
+[![GitHub - Techincal Artist](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/Bindo56/Technical-Artist-Work/tree/main)  
 [![ArtStation](https://img.shields.io/badge/ArtStation-darkblue?style=for-the-badge&logo=artstation)](https://www.artstation.com/bindo56)  
 [![Itch.io](https://img.shields.io/badge/Itch.io-ff5c5c?style=for-the-badge&logo=itchdotio)](https://bindo56.itch.io/)
 
