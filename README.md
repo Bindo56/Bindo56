@@ -1,6 +1,6 @@
 # 🎮 Saurabh Kundalwal  
 
-**Game Programmer & Technical Artist | Unity & Unreal Engine | Multiplayer & Backend | Technical Artist**  
+**Game Programmer & Technical Animation Programmer  | Unity & Unreal Engine | Multiplayer & Backend **  
 📍 Mumbai  
 📧 [kundalwalsaurabh56@gmail.com](mailto:kundalwalsaurabh56@gmail.com)  
 📱 +91 7391967061  
@@ -77,10 +77,10 @@ UK | Remote | *Nov 2025 - Jan 2026
 
  ---
 
-## **Technical Artist 
-- [Technical Artish Work](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
+## **Runtime Animation & Gameplay Tech 
+- [Runtime Animation & Gameplay Tech Portfolio](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
 
-(Niagara Systems • Unity VFX • MotionBuilder • Maya • Rigging • Animation)
+(Technical Animation • Runtime Animation Systems • Gameplay Systems • Rigging • Maya • MotionBuilder • Unreal Engine • Unity)
 
 
     
