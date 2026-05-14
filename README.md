@@ -17,6 +17,7 @@
 ## 🧠 About Me
 Gameplay Programmer and Technical Artist with experience developing games and interactive systems in Unity and Unreal Engine.
 [Certified as a Unity Certified Associate: Programmer](https://www.credly.com/badges/fd79bdac-14f4-4abd-b4ab-7603003d8527/public_url)
+
 Skilled in Unity, Unreal Engine, C#, Blueprints, and C++, with a focus on building clean and scalable gameplay systems. Worked on projects involving player mechanics, multiplayer systems, VR simulations, gameplay architecture, and foundational graphics/rendering programming in C++.
 
 Also experienced in technical art workflows including VFX integration, animation systems, Anim Notifies, rigging, MotionBuilder pipelines, and character animation workflows.
