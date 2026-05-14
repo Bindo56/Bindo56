@@ -77,8 +77,8 @@ UK | Remote | *Nov 2025 - Jan 2026
 
  ---
 
-## **Runtime Animation & Gameplay Tech 
-- [Runtime Animation & Gameplay Tech Portfolio](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
+## **Technical Animations & Gameplay Technical Animations
+- [Technical Animation & Gameplay Technical Animations Portfolio](https://github.com/Bindo56/Technical-Artist-Work/tree/main)
 
 (Technical Animation • Runtime Animation Systems • Gameplay Systems • Rigging • Maya • MotionBuilder • Unreal Engine • Unity)
 
