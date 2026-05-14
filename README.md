@@ -15,14 +15,13 @@
 ---
 
 ## 🧠 About Me
-Have Experience for Game programming and Techincal Artist made some games.  
-[Unity Certified Programmer](https://www.credly.com/badges/fd79bdac-14f4-4abd-b4ab-7603003d8527/public_url).
+Gameplay Programmer and Technical Artist with experience developing games and interactive systems in Unity and Unreal Engine.
+[Certified as a Unity Certified Associate: Programmer](https://www.credly.com/badges/fd79bdac-14f4-4abd-b4ab-7603003d8527/public_url)
+Skilled in Unity, Unreal Engine, C#, Blueprints, and C++, with a focus on building clean and scalable gameplay systems. Worked on projects involving player mechanics, multiplayer systems, VR simulations, gameplay architecture, and foundational graphics/rendering programming in C++.
 
-Skilled in **Unity** and **Unreal Engine**, I work in **C#, Blueprints**, C++ , and developing **clean, scalable gameplay systems**. I’ve worked on projects involving **player mechanics, multiplayer systems, VR simulations**, and **system Architecture**, and low-level rendering in C++ and also i work on VFX , Motion Builder , Animation Intergration , Anim Notify and other Techical Artist.
+Also experienced in technical art workflows including VFX integration, animation systems, Anim Notifies, rigging, MotionBuilder pipelines, and character animation workflows.
 
-Have a knowledge in **3D modeling in MAYA , and 2D art**,  Autodesk Maya for Rigging and Motion Builder for Animations Combining & skeleton Animation switch work.
-
-
+Additional experience in 3D modeling and rigging using Autodesk Maya, along with basic 2D art and asset pipeline workflows.
 ---
 
 ## 💼 Experience
