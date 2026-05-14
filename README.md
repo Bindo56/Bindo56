@@ -29,7 +29,7 @@ Additional experience in 3D modeling and rigging using Autodesk Maya, along with
 
 ## 💼 Experience
 
-### **Unity Developer Intern — [Wharf Street Studio](https://wharfstreetstudios.com/)
+### **Unity Developer Intern — [Wharf Street Studio](https://wharfstreetstudios.com/) [Games](https://www.epiko.io/games/epiko-regal)
 📍 Mumbai | *Jul 2025 – Oct 2025
 - Architected and implemented the core gameplay framework for a new Epiko 2D Adventure game , including player controls, camera systems, and input processing.
 
