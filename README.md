@@ -1,6 +1,6 @@
 # 🎮 Saurabh Kundalwal  
 
-**Game Programmer & Technical Animation Programmer  | Unity & Unreal Engine | Multiplayer & Backend **  
+**Game Programmer & Technical Animation | Unity & Unreal Engine | Multiplayer & Backend **  
 📍 Mumbai  
 📧 [kundalwalsaurabh56@gmail.com](mailto:kundalwalsaurabh56@gmail.com)  
 📱 +91 7391967061  
@@ -15,7 +15,7 @@
 ---
 
 ## 🧠 About Me
-Gameplay Programmer and Technical Artist with experience developing games and interactive systems in Unity and Unreal Engine.
+Game Programmer with experience developing gameplay systems, Game VFX & UI Programming , technical animation workflows, and interactive experiences in Unity and Unreal Engine.
 
 [Certified as a Unity Certified Associate: Programmer](https://www.credly.com/badges/fd79bdac-14f4-4abd-b4ab-7603003d8527/public_url)
 
