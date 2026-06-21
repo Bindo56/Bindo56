@@ -29,6 +29,16 @@ Additional experience in 3D modeling and rigging using Autodesk Maya, along with
 
 ## 💼 Experience
 
+### **Unity Programmer,  — [Kalp](https://kalpstudio.co.in/)
+Working On Raahi
+Open World Mission System
+* Developed a modular mission system with objective tracking, checkpoints, rewards, and navigation markers.
+* Implemented reusable mission configurations using ScriptableObjects and integrated mission UI.
+Open World Traffic Al System
+* Developed a node-based traffic Al system with navigation, obstacle avoidance, and overtaking behaviors.
+* Implemented dynamic spawning, performance optimizations, and scalable road graph management tools. 
+
+
 ### **Unity Developer Intern — [Wharf Street Studio](https://wharfstreetstudios.com/) [Games](https://www.epiko.io/games/epiko-regal)
 📍 Mumbai | *Jul 2025 – Oct 2025
 - Architected and implemented the core gameplay framework for a new Epiko 2D Adventure game , including player controls, camera systems, and input processing.
