@@ -115,6 +115,9 @@ Here are some of my notable projects.
 ## **Unity Tools
 - 🎮 [Stretch & Squash Rig Tool (Unity – IAnimationJob)](https://github.com/Bindo56/Stretch_And_Squash_Tool)
 
+## **Maya Tools (Tools Programming)
+- 🎮 [Texture Set Linker Tool (Maya – Python(PySide2 and PySide6))](https://github.com/Bindo56/Maya-Texture-Linker/tree/main)
+
 ## **Unity Dots
 - 🎮 [Solar_System Sim using Unity DOTS (ECS) ~ Data-Oriented Design](https://github.com/Bindo56/DOTS_SolarSystem/tree/main)
 
