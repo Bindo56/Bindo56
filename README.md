@@ -12,6 +12,8 @@
 
 [Personal Website](https://kundalwalsaurabh56.wixsite.com/my-site)
 
+[Interactive portfolio — System Zero](https://bindo56.github.io/)
+
 ---
 
 ## 🧠 About Me
@@ -120,6 +122,7 @@ Here are some of my notable projects.
 
 ## **Unity Dots
 - 🎮 [Solar_System Sim using Unity DOTS (ECS) ~ Data-Oriented Design](https://github.com/Bindo56/DOTS_SolarSystem/tree/main)
+- 🚀 [Play the Solar DOTS browser world](https://bindo56.github.io/worlds/event-horizon/) — a Three.js interpretation of the Unity simulation.
 
 ## ** VR/AR Unity/Unreal Engine
 - 🎮 [Drone Simulation VR (Unreal)](https://github.com/Bindo56/Drone_Simulation)
