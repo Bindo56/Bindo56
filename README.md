@@ -1,6 +1,6 @@
 # 🎮 Saurabh Kundalwal  
 
-**Game Programmer & Technical Animation | Unity & Unreal Engine | Multiplayer & Backend **  
+**Game Dev & Technical Artsit | Unity & Unreal Engine | Multiplayer & Backend **  
 📍 Mumbai  
 📧 [kundalwalsaurabh56@gmail.com](mailto:kundalwalsaurabh56@gmail.com)  
 📱 +91 7391967061  
@@ -119,6 +119,7 @@ Here are some of my notable projects.
 
 ## **Maya Tools (Tools Programming)
 - 🎮 [Texture Set Linker Tool (Maya – Python(PySide2 and PySide6))](https://github.com/Bindo56/Maya-Texture-Linker/tree/main)
+- - 🎮 [Maya Asset Validator (Maya – Python(PySide2 and PySide6))](https://github.com/Bindo56/maya-asset-validator)
 
 ## **Unity Dots
 - 🎮 [Solar_System Sim using Unity DOTS (ECS) ~ Data-Oriented Design](https://github.com/Bindo56/DOTS_SolarSystem/tree/main)
