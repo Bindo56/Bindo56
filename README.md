@@ -17,7 +17,7 @@
 ---
 
 ## 🧠 About Me
-Game Programmer with experience developing gameplay systems, Game VFX & UI Programming , technical animation workflows, and interactive experiences in Unity and Unreal Engine.
+Game Dev & Technical Artist with experience developing gameplay systems, Tools for DCC software ,Game VFX & UI Programming , technical animation workflows, and interactive experiences in Unity and Unreal Engine.
 
 [Certified as a Unity Certified Associate: Programmer](https://www.credly.com/badges/fd79bdac-14f4-4abd-b4ab-7603003d8527/public_url)
 
